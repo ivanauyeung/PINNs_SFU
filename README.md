@@ -40,3 +40,8 @@ The container launches jupyter lab and runs on port 8888
 `jupyter-lab --ip 0.0.0.0 --port 8888 --no-browser --allow-root`
 
 Then, open the jupyter lab in browser: http://localhost:8888
+
+#### PyPI
+
+The recommended method for installing the latest version of PhysicsNeMo is using PyPI:
+`pip install nvidia-physicsnemo`
