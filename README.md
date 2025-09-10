@@ -46,4 +46,5 @@ Then, open the jupyter lab in browser: http://localhost:8888
 The recommended method for installing the latest version of PhysicsNeMo is using PyPI:
 
 `pip install nvidia-physicsnemo`
+
 `pip install nvidia-physicsnemo-sym --no-build-isolation`
